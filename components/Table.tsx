@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from "react";
 
-function Scrollable({ children }) {
+function Scrollable({ children }: { children: React.ReactNode }) {
   const [isDown, setIsDown] = useState(false);
   const [startX, setStartX] = useState(0);
   const [scrollLeft, setScrollLeft] = useState(0);
