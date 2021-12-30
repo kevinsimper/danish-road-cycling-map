@@ -2,7 +2,7 @@ export default [
   {
     "EventId": 9632,
     "Name": "Cyklecross Sjællandsmesterskab 2022 // CC HIllerød",
-    "Date": "2022-01-02",
+    "date": 1641081600000,
     "EventTypeName": "Cyklecross",
     "Location": "Lynge",
     "DcuRegion": "east"
@@ -10,7 +10,7 @@ export default [
   {
     "EventId": 9589,
     "Name": "DM Cyklecross 2022 - CK Aarhus",
-    "Date": "2022-01-08",
+    "date": 1641600000000,
     "EventTypeName": "Cyklecross",
     "Location": "CK Aarhus, Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -18,7 +18,7 @@ export default [
   {
     "EventId": 9589,
     "Name": "DM Cyklecross 2022 - CK Aarhus",
-    "Date": "2022-01-09",
+    "date": 1641686400000,
     "EventTypeName": "Cyklecross",
     "Location": "CK Aarhus, Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -26,7 +26,7 @@ export default [
   {
     "EventId": 9633,
     "Name": "Cyklecross Cup FINALE  2021-22 //  Kalundborg CC",
-    "Date": "2022-01-16",
+    "date": 1642291200000,
     "EventTypeName": "Cyklecross",
     "Location": "Kalundborg",
     "DcuRegion": "east"
@@ -34,7 +34,7 @@ export default [
   {
     "EventId": 9952,
     "Name": "Kommissærkursus BMX",
-    "Date": "2022-01-22",
+    "date": 1642809600000,
     "EventTypeName": "Kursus",
     "Location": "TBA",
     "DcuRegion": "west"
@@ -42,7 +42,7 @@ export default [
   {
     "EventId": 9783,
     "Name": "DM Holdløb med mere d. 29 januar",
-    "Date": "2022-01-29",
+    "date": 1643414400000,
     "EventTypeName": "Banecykling",
     "Location": null,
     "DcuRegion": "west"
@@ -50,7 +50,7 @@ export default [
   {
     "EventId": 9779,
     "Name": "Træner 2",
-    "Date": "2022-01-29",
+    "date": 1643414400000,
     "EventTypeName": "Kursus",
     "Location": "Brønshøj",
     "DcuRegion": null
@@ -58,7 +58,7 @@ export default [
   {
     "EventId": 9779,
     "Name": "Træner 2",
-    "Date": "2022-01-30",
+    "date": 1643500800000,
     "EventTypeName": "Kursus",
     "Location": "Brønshøj",
     "DcuRegion": null
@@ -66,7 +66,7 @@ export default [
   {
     "EventId": 9720,
     "Name": "VESTERGADES CYKLER MTB CUP 2022 - #1 Bordrup",
-    "Date": "2022-01-30",
+    "date": 1643500800000,
     "EventTypeName": "MTB",
     "Location": "Bordrup Plantage, Oksbøl",
     "DcuRegion": null
@@ -74,7 +74,7 @@ export default [
   {
     "EventId": 9719,
     "Name": "VESTERGADES CYKLER MTB CUP 2022 - Samlet CUP",
-    "Date": "2022-01-30",
+    "date": 1643500800000,
     "EventTypeName": "MTB",
     "Location": "Samlet Cup Tilmelding",
     "DcuRegion": null
@@ -82,7 +82,7 @@ export default [
   {
     "EventId": 9897,
     "Name": "Webinar: Rekrutter medlemmer til cykelklubben via facebook",
-    "Date": "2022-02-02",
+    "date": 1643760000000,
     "EventTypeName": "Kursus",
     "Location": "Brøndby",
     "DcuRegion": null
@@ -90,7 +90,7 @@ export default [
   {
     "EventId": 9953,
     "Name": "Kommissærkursus Landevej",
-    "Date": "2022-02-05",
+    "date": 1644019200000,
     "EventTypeName": "Kursus",
     "Location": "TBA",
     "DcuRegion": "west"
@@ -98,7 +98,7 @@ export default [
   {
     "EventId": 9779,
     "Name": "Træner 2",
-    "Date": "2022-02-05",
+    "date": 1644019200000,
     "EventTypeName": "Kursus",
     "Location": "Brønshøj",
     "DcuRegion": null
@@ -106,7 +106,7 @@ export default [
   {
     "EventId": 9779,
     "Name": "Træner 2",
-    "Date": "2022-02-06",
+    "date": 1644105600000,
     "EventTypeName": "Kursus",
     "Location": "Brønshøj",
     "DcuRegion": null
@@ -114,7 +114,7 @@ export default [
   {
     "EventId": 9897,
     "Name": "Webinar: Rekrutter medlemmer til cykelklubben via facebook",
-    "Date": "2022-02-07",
+    "date": 1644192000000,
     "EventTypeName": "Kursus",
     "Location": "Brøndby",
     "DcuRegion": null
@@ -122,7 +122,7 @@ export default [
   {
     "EventId": 10038,
     "Name": "B&U - Basistræner BMX - øst",
-    "Date": "2022-02-12",
+    "date": 1644624000000,
     "EventTypeName": "Kursus",
     "Location": "København S",
     "DcuRegion": null
@@ -130,7 +130,7 @@ export default [
   {
     "EventId": 10037,
     "Name": "B&U - Basistræner BMX - vest",
-    "Date": "2022-02-19",
+    "date": 1645228800000,
     "EventTypeName": "Kursus",
     "Location": "Randers NV",
     "DcuRegion": null
@@ -138,7 +138,7 @@ export default [
   {
     "EventId": 10004,
     "Name": "B&U - Basistræner Landevej - øst",
-    "Date": "2022-02-26",
+    "date": 1645833600000,
     "EventTypeName": "Kursus",
     "Location": "Hvidovre",
     "DcuRegion": null
@@ -146,7 +146,7 @@ export default [
   {
     "EventId": 9721,
     "Name": "VESTERGADES CYKLER MTB CUP 2022 - #2 Grusgraven",
-    "Date": "2022-02-27",
+    "date": 1645920000000,
     "EventTypeName": "MTB",
     "Location": "Sdr. Plantage Grusgrav, Varde",
     "DcuRegion": null
@@ -154,7 +154,7 @@ export default [
   {
     "EventId": 10005,
     "Name": "B&U - Basistræner MTB - øst",
-    "Date": "2022-03-05",
+    "date": 1646438400000,
     "EventTypeName": "Kursus",
     "Location": "Holte",
     "DcuRegion": null
@@ -162,7 +162,7 @@ export default [
   {
     "EventId": 9680,
     "Name": "Træner 1 - Øst",
-    "Date": "2022-03-05",
+    "date": 1646438400000,
     "EventTypeName": "Kursus",
     "Location": "",
     "DcuRegion": null
@@ -170,7 +170,7 @@ export default [
   {
     "EventId": 9846,
     "Name": "MTB Kaptajn - øst",
-    "Date": "2022-03-06",
+    "date": 1646524800000,
     "EventTypeName": "Kursus",
     "Location": "Slagelse",
     "DcuRegion": null
@@ -178,7 +178,7 @@ export default [
   {
     "EventId": 9680,
     "Name": "Træner 1 - Øst",
-    "Date": "2022-03-06",
+    "date": 1646524800000,
     "EventTypeName": "Kursus",
     "Location": "",
     "DcuRegion": null
@@ -186,7 +186,7 @@ export default [
   {
     "EventId": 10006,
     "Name": "B&U - Basistræner MTB - vest",
-    "Date": "2022-03-12",
+    "date": 1647043200000,
     "EventTypeName": "Kursus",
     "Location": "Lunderskov",
     "DcuRegion": null
@@ -194,7 +194,7 @@ export default [
   {
     "EventId": 9722,
     "Name": "VESTERGADES CYKLER MTB CUP 2022 - #3 Blåbjerg Plantage",
-    "Date": "2022-03-13",
+    "date": 1647129600000,
     "EventTypeName": "MTB",
     "Location": "Blåbjerg Plantage, Henne Strand",
     "DcuRegion": null
@@ -202,7 +202,7 @@ export default [
   {
     "EventId": 9680,
     "Name": "Træner 1 - Øst",
-    "Date": "2022-03-19",
+    "date": 1647648000000,
     "EventTypeName": "Kursus",
     "Location": "",
     "DcuRegion": null
@@ -210,7 +210,7 @@ export default [
   {
     "EventId": 9680,
     "Name": "Træner 1 - Øst",
-    "Date": "2022-03-20",
+    "date": 1647734400000,
     "EventTypeName": "Kursus",
     "Location": "",
     "DcuRegion": null
@@ -218,7 +218,7 @@ export default [
   {
     "EventId": 10003,
     "Name": "B&U - Basistræner Landevej - vest",
-    "Date": "2022-03-26",
+    "date": 1648252800000,
     "EventTypeName": "Kursus",
     "Location": "Kolding",
     "DcuRegion": null
@@ -226,7 +226,7 @@ export default [
   {
     "EventId": 10042,
     "Name": "Meldgaardløbet Rødekro Cykle Club",
-    "Date": "2022-03-27",
+    "date": 1648339200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Rødekro Cycle Club - Rødekro",
     "DcuRegion": "west"
@@ -234,7 +234,7 @@ export default [
   {
     "EventId": 10048,
     "Name": "MTB KOLDING  -  XCO løb",
-    "Date": "2022-04-03",
+    "date": 1648944000000,
     "EventTypeName": "MTB",
     "Location": "Kolding",
     "DcuRegion": "west"
@@ -242,7 +242,7 @@ export default [
   {
     "EventId": 10083,
     "Name": "Hillerød CC Grand Prix 2022",
-    "Date": "2022-04-09",
+    "date": 1649462400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Alsønderup",
     "DcuRegion": "east"
@@ -250,7 +250,7 @@ export default [
   {
     "EventId": 10114,
     "Name": "Skive 2022",
-    "Date": "2022-04-09",
+    "date": 1649462400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Skive Cykle Klub, Skive",
     "DcuRegion": "west"
@@ -258,7 +258,7 @@ export default [
   {
     "EventId": 10080,
     "Name": "En Forårsdag i Hell-singør 2022",
-    "Date": "2022-04-10",
+    "date": 1649548800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Helsingør",
     "DcuRegion": "east"
@@ -266,7 +266,7 @@ export default [
   {
     "EventId": 10043,
     "Name": "3 Dage i Nord -  #1 Hjørring",
-    "Date": "2022-04-16",
+    "date": 1650067200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Cykle Clubben Hjørring",
     "DcuRegion": "west"
@@ -274,7 +274,7 @@ export default [
   {
     "EventId": 10044,
     "Name": "3 Dage i Nord -  #2 Thy",
-    "Date": "2022-04-17",
+    "date": 1650153600000,
     "EventTypeName": "Landevejscykling",
     "Location": "",
     "DcuRegion": "west"
@@ -282,7 +282,7 @@ export default [
   {
     "EventId": 10045,
     "Name": "3 Dage i Nord -  #3 Aalborg",
-    "Date": "2022-04-18",
+    "date": 1650240000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Aalborg Cykle-Ring",
     "DcuRegion": "west"
@@ -290,7 +290,7 @@ export default [
   {
     "EventId": 10094,
     "Name": "Næstved BC ITT Demin Cup // Ladies Cup // UNO-X Cup 2022 (Enkeltstart)",
-    "Date": "2022-04-23",
+    "date": 1650672000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Næstved",
     "DcuRegion": "east"
@@ -298,7 +298,7 @@ export default [
   {
     "EventId": 10088,
     "Name": "Amager Cykle Ring linjeløb  2022",
-    "Date": "2022-04-24",
+    "date": 1650758400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Amager",
     "DcuRegion": "east"
@@ -306,7 +306,7 @@ export default [
   {
     "EventId": 9790,
     "Name": "En Forårsdag i Gudenådalen 2022 (M)",
-    "Date": "2022-04-24",
+    "date": 1650758400000,
     "EventTypeName": "Landevejscykling",
     "Location": null,
     "DcuRegion": "west"
@@ -314,7 +314,7 @@ export default [
   {
     "EventId": 9915,
     "Name": "MTB Ligaløb  #1 - Odense C2",
-    "Date": "2022-04-24",
+    "date": 1650758400000,
     "EventTypeName": "MTB",
     "Location": "Vissenbjerg",
     "DcuRegion": "west"
@@ -322,7 +322,7 @@ export default [
   {
     "EventId": 9724,
     "Name": "Storebæltsløbet 2022",
-    "Date": "2022-04-24",
+    "date": 1650758400000,
     "EventTypeName": "Landevejscykling",
     "Location": "4200 Slagelse",
     "DcuRegion": null
@@ -330,7 +330,7 @@ export default [
   {
     "EventId": 10049,
     "Name": "Vejle CK 2022",
-    "Date": "2022-04-24",
+    "date": 1650758400000,
     "EventTypeName": "Landevejscykling",
     "Location": "",
     "DcuRegion": "west"
@@ -338,7 +338,7 @@ export default [
   {
     "EventId": 9921,
     "Name": "Aarhus Cykelbane 2022 - Kay Werners Mindeløb",
-    "Date": "2022-04-29",
+    "date": 1651190400000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -346,7 +346,7 @@ export default [
   {
     "EventId": 10101,
     "Name": "Kolding  BC  Løbet 2022",
-    "Date": "2022-04-30",
+    "date": 1651276800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Kolding",
     "DcuRegion": "west"
@@ -354,7 +354,7 @@ export default [
   {
     "EventId": 10095,
     "Name": "Ordrup CC Linjeløb 2022",
-    "Date": "2022-05-01",
+    "date": 1651363200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Uvelse",
     "DcuRegion": "east"
@@ -362,7 +362,7 @@ export default [
   {
     "EventId": 10050,
     "Name": "Vejen BC 2022",
-    "Date": "2022-05-01",
+    "date": 1651363200000,
     "EventTypeName": "Landevejscykling",
     "Location": ".",
     "DcuRegion": "west"
@@ -370,7 +370,7 @@ export default [
   {
     "EventId": 10082,
     "Name": "FBL Grand Prix 2022",
-    "Date": "2022-05-07",
+    "date": 1651881600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Lumsås",
     "DcuRegion": "east"
@@ -378,7 +378,7 @@ export default [
   {
     "EventId": 10051,
     "Name": "Hobro løbet 2022",
-    "Date": "2022-05-07",
+    "date": 1651881600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Hobro CC, Hobro",
     "DcuRegion": "west"
@@ -386,7 +386,7 @@ export default [
   {
     "EventId": 10052,
     "Name": "Give Elementer løbet 2022 - Give Cykelklub",
-    "Date": "2022-05-08",
+    "date": 1651968000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Give Cykelklub",
     "DcuRegion": "west"
@@ -394,7 +394,7 @@ export default [
   {
     "EventId": 10053,
     "Name": "Hammel CK  - MTB XCO løb",
-    "Date": "2022-05-08",
+    "date": 1651968000000,
     "EventTypeName": "MTB",
     "Location": "Hammel",
     "DcuRegion": "west"
@@ -402,7 +402,7 @@ export default [
   {
     "EventId": 10097,
     "Name": "Youth Tour 2022  RCR & TCR",
-    "Date": "2022-05-13",
+    "date": 1652400000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Roskilde",
     "DcuRegion": "east"
@@ -410,7 +410,7 @@ export default [
   {
     "EventId": 9922,
     "Name": "Aarhus Cykelbane 2022 - Bane Cup 1 afdeling",
-    "Date": "2022-05-13",
+    "date": 1652400000000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -418,7 +418,7 @@ export default [
   {
     "EventId": 10115,
     "Name": "MTB Motionsløb - Roskilde",
-    "Date": "2022-05-14",
+    "date": 1652486400000,
     "EventTypeName": "MTB",
     "Location": "Roskilde",
     "DcuRegion": "west"
@@ -426,7 +426,7 @@ export default [
   {
     "EventId": 10097,
     "Name": "Youth Tour 2022  RCR & TCR",
-    "Date": "2022-05-14",
+    "date": 1652486400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Roskilde",
     "DcuRegion": "east"
@@ -434,7 +434,7 @@ export default [
   {
     "EventId": 10055,
     "Name": "Fredericia CC 2022",
-    "Date": "2022-05-15",
+    "date": 1652572800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Fredericia ",
     "DcuRegion": "west"
@@ -442,7 +442,7 @@ export default [
   {
     "EventId": 9916,
     "Name": "MTB Ligaløb  #2 - Roskilde C2",
-    "Date": "2022-05-15",
+    "date": 1652572800000,
     "EventTypeName": "MTB",
     "Location": "Roskilde",
     "DcuRegion": "west"
@@ -450,7 +450,7 @@ export default [
   {
     "EventId": 10097,
     "Name": "Youth Tour 2022  RCR & TCR",
-    "Date": "2022-05-15",
+    "date": 1652572800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Roskilde",
     "DcuRegion": "east"
@@ -458,7 +458,7 @@ export default [
   {
     "EventId": 10092,
     "Name": "ABC Linjeløb  2022",
-    "Date": "2022-05-21",
+    "date": 1653091200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Høje Tåstrup",
     "DcuRegion": "east"
@@ -466,7 +466,7 @@ export default [
   {
     "EventId": 9959,
     "Name": "BornFondo 2022 - Bjerg enkeltstart",
-    "Date": "2022-05-21",
+    "date": 1653091200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Bornholms Cycle Club, Bornholm",
     "DcuRegion": null
@@ -474,7 +474,7 @@ export default [
   {
     "EventId": 10056,
     "Name": "GP  Herning  - UCI 1.2",
-    "Date": "2022-05-21",
+    "date": 1653091200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Herning",
     "DcuRegion": "west"
@@ -482,7 +482,7 @@ export default [
   {
     "EventId": 10057,
     "Name": "Middelfart 2022",
-    "Date": "2022-05-21",
+    "date": 1653091200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Middelfart Cykel Club, Middelfart",
     "DcuRegion": "west"
@@ -490,7 +490,7 @@ export default [
   {
     "EventId": 9958,
     "Name": "BornFondo 2022 - Bornholms Bjergløb",
-    "Date": "2022-05-22",
+    "date": 1653177600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Bornholms Cycle Club, Gudhjem",
     "DcuRegion": null
@@ -498,7 +498,7 @@ export default [
   {
     "EventId": 10068,
     "Name": "Fyn Rundt UCI 1.2 - 2022",
-    "Date": "2022-05-22",
+    "date": 1653177600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Cykling Odense",
     "DcuRegion": "west"
@@ -506,7 +506,7 @@ export default [
   {
     "EventId": 10096,
     "Name": "Frederiksberg EL Løbet  2022 // PI",
-    "Date": "2022-05-26",
+    "date": 1653523200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Lejre",
     "DcuRegion": "east"
@@ -514,7 +514,7 @@ export default [
   {
     "EventId": 10058,
     "Name": "Tour de Himmelfart 2022 - Entry List",
-    "Date": "2022-05-26",
+    "date": 1653523200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Odder Cykel Klub, Odder",
     "DcuRegion": "west"
@@ -522,7 +522,7 @@ export default [
   {
     "EventId": 10084,
     "Name": "GripGrab Grand Prix 2022 - Nørrebro CK",
-    "Date": "2022-05-28",
+    "date": 1653696000000,
     "EventTypeName": "Landevejscykling",
     "Location": "",
     "DcuRegion": "east"
@@ -530,7 +530,7 @@ export default [
   {
     "EventId": 10059,
     "Name": "Frederikshøj –  ikke B&U 2022",
-    "Date": "2022-05-29",
+    "date": 1653782400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Frederikshøj CC",
     "DcuRegion": "west"
@@ -538,7 +538,7 @@ export default [
   {
     "EventId": 9689,
     "Name": "Rødspætteløbet 2022 (M)",
-    "Date": "2022-05-29",
+    "date": 1653782400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Frederikshavn",
     "DcuRegion": "west"
@@ -546,7 +546,7 @@ export default [
   {
     "EventId": 10060,
     "Name": "Herning City Gadeløbet 2022 - Børne Tour",
-    "Date": "2022-06-03",
+    "date": 1654214400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Tinghuspladsen, Herning",
     "DcuRegion": "west"
@@ -554,7 +554,7 @@ export default [
   {
     "EventId": 10111,
     "Name": "MTB MOTIONSLØB Randers ",
-    "Date": "2022-06-04",
+    "date": 1654300800000,
     "EventTypeName": "MTB",
     "Location": "Randers",
     "DcuRegion": "west"
@@ -562,7 +562,7 @@ export default [
   {
     "EventId": 10062,
     "Name": "Silkeborg  2022 / 1. afd. CAMPIONE PINSE CUP",
-    "Date": "2022-06-04",
+    "date": 1654300800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Silkeborg if cykling",
     "DcuRegion": "west"
@@ -570,7 +570,7 @@ export default [
   {
     "EventId": 10061,
     "Name": "Herning  LØBET 2022 / 2. afd. CAMPIONE PINSE CUP",
-    "Date": "2022-06-05",
+    "date": 1654387200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Herning Cykle Klub, Herning",
     "DcuRegion": "west"
@@ -578,7 +578,7 @@ export default [
   {
     "EventId": 10063,
     "Name": "Randers 2022 / 3. afd.  CAMPIONE PINSE CUP",
-    "Date": "2022-06-06",
+    "date": 1654473600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Randers ck",
     "DcuRegion": "west"
@@ -586,7 +586,7 @@ export default [
   {
     "EventId": 9923,
     "Name": "Aarhus Cykelbane 2022 -  Niels Fredborgs Æresløb",
-    "Date": "2022-06-10",
+    "date": 1654819200000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -594,7 +594,7 @@ export default [
   {
     "EventId": 10112,
     "Name": "MTB MOTIONSLØB - Varde",
-    "Date": "2022-06-11",
+    "date": 1654905600000,
     "EventTypeName": "MTB",
     "Location": "Varde Cykelklub, Varde",
     "DcuRegion": "west"
@@ -602,7 +602,7 @@ export default [
   {
     "EventId": 10064,
     "Name": "Horsens",
-    "Date": "2022-06-12",
+    "date": 1654992000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Horsens Amatør Cykleklub, Horsens",
     "DcuRegion": "west"
@@ -610,7 +610,7 @@ export default [
   {
     "EventId": 9918,
     "Name": "MTB Ligaløb  #4 - Varde C2",
-    "Date": "2022-06-12",
+    "date": 1654992000000,
     "EventTypeName": "MTB",
     "Location": "Varde Cykelklub, Varde",
     "DcuRegion": "west"
@@ -618,7 +618,7 @@ export default [
   {
     "EventId": 10065,
     "Name": "Holstebro CC - U23 - Master DM   - TT",
-    "Date": "2022-06-18",
+    "date": 1655510400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Esbjerg",
     "DcuRegion": "west"
@@ -626,7 +626,7 @@ export default [
   {
     "EventId": 10077,
     "Name": "Randers BMX - National Cup 3",
-    "Date": "2022-06-18",
+    "date": 1655510400000,
     "EventTypeName": "BMX",
     "Location": "Aars BMX",
     "DcuRegion": "west"
@@ -634,7 +634,7 @@ export default [
   {
     "EventId": 10066,
     "Name": "Holstebro CC - U23 - Master DM linieløb",
-    "Date": "2022-06-19",
+    "date": 1655596800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Esbjerg",
     "DcuRegion": "west"
@@ -642,7 +642,7 @@ export default [
   {
     "EventId": 10078,
     "Name": "Randers BMX - National Cup 4",
-    "Date": "2022-06-19",
+    "date": 1655596800000,
     "EventTypeName": "BMX",
     "Location": "Aars BMX",
     "DcuRegion": "west"
@@ -650,7 +650,7 @@ export default [
   {
     "EventId": 9663,
     "Name": "Spar Nord Mors Rundt 2022",
-    "Date": "2022-06-19",
+    "date": 1655596800000,
     "EventTypeName": "Landevejscykling",
     "Location": null,
     "DcuRegion": null
@@ -658,7 +658,7 @@ export default [
   {
     "EventId": 10069,
     "Name": "DM i enkeltstart (TT) 2022 - Aalborg CR",
-    "Date": "2022-06-23",
+    "date": 1655942400000,
     "EventTypeName": "Landevejscykling",
     "Location": "GIVE CK",
     "DcuRegion": "west"
@@ -666,7 +666,7 @@ export default [
   {
     "EventId": 10070,
     "Name": "DM i linjeløb U19-herrer 2022 - Aalborg CR",
-    "Date": "2022-06-25",
+    "date": 1656115200000,
     "EventTypeName": "Landevejscykling",
     "Location": "GIVE CK",
     "DcuRegion": "west"
@@ -674,7 +674,7 @@ export default [
   {
     "EventId": 10090,
     "Name": "Birkerød BC & Lyngby CC Grand Prix 2022",
-    "Date": "2022-06-26",
+    "date": 1656201600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Trørød",
     "DcuRegion": "east"
@@ -682,7 +682,7 @@ export default [
   {
     "EventId": 10071,
     "Name": "DM i linjeløb 2022, eliteherrer & elitekvinder + U19-kvinder - Aalborg CR",
-    "Date": "2022-06-26",
+    "date": 1656201600000,
     "EventTypeName": "Landevejscykling",
     "Location": "GIVE CK",
     "DcuRegion": "west"
@@ -690,7 +690,7 @@ export default [
   {
     "EventId": 10072,
     "Name": "Aarhus Cykelbane 2022 - Gunnar Asmussens Æresløb UCI LØB . DM Parløb",
-    "Date": "2022-06-28",
+    "date": 1656374400000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -698,7 +698,7 @@ export default [
   {
     "EventId": 9924,
     "Name": "Aarhus Cykelbane 2022",
-    "Date": "2022-07-29",
+    "date": 1659052800000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -706,7 +706,7 @@ export default [
   {
     "EventId": 10073,
     "Name": "Randers Bike Week (Entry List) 2022",
-    "Date": "2022-08-04",
+    "date": 1659571200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Randers Cykleklub af 1910, Randers",
     "DcuRegion": "west"
@@ -714,7 +714,7 @@ export default [
   {
     "EventId": 9406,
     "Name": "Ærø Rundt 2022 (M)",
-    "Date": "2022-08-06",
+    "date": 1659744000000,
     "EventTypeName": "Landevejscykling",
     "Location": null,
     "DcuRegion": "west"
@@ -722,7 +722,7 @@ export default [
   {
     "EventId": 10074,
     "Name": "Hadsten Gadeløb 2022",
-    "Date": "2022-08-11",
+    "date": 1660176000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Hammel Cykle klub",
     "DcuRegion": "west"
@@ -730,7 +730,7 @@ export default [
   {
     "EventId": 9925,
     "Name": "Aarhus Cykelbane 2022 - Gert Franks Mindeløb",
-    "Date": "2022-08-12",
+    "date": 1660262400000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -738,7 +738,7 @@ export default [
   {
     "EventId": 10089,
     "Name": "CK Nordsjælland Linjeløb  2022",
-    "Date": "2022-08-14",
+    "date": 1660435200000,
     "EventTypeName": "Landevejscykling",
     "Location": "tikøb",
     "DcuRegion": "east"
@@ -746,7 +746,7 @@ export default [
   {
     "EventId": 10091,
     "Name": "Nordic Sugar TT 2022 Nakskov CC",
-    "Date": "2022-08-20",
+    "date": 1660953600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Bandholmvej i Birket 4943 Torrig L., Nakskov CC",
     "DcuRegion": "east"
@@ -754,7 +754,7 @@ export default [
   {
     "EventId": 10113,
     "Name": "LFCK linjeløb 2022",
-    "Date": "2022-08-21",
+    "date": 1661040000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Ågerup, Sjælland",
     "DcuRegion": "east"
@@ -762,7 +762,7 @@ export default [
   {
     "EventId": 10046,
     "Name": "Svendborg Mountainbikeklub  -  XCO løb",
-    "Date": "2022-08-21",
+    "date": 1661040000000,
     "EventTypeName": "MTB",
     "Location": "Svendborg",
     "DcuRegion": "west"
@@ -770,7 +770,7 @@ export default [
   {
     "EventId": 9926,
     "Name": "Aarhus Cykelbane 2022 - 6 Dages Cup",
-    "Date": "2022-08-21",
+    "date": 1661040000000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -778,7 +778,7 @@ export default [
   {
     "EventId": 10116,
     "Name": "B&U DM 2022 Slagelse CR",
-    "Date": "2022-08-27",
+    "date": 1661558400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Skælskør",
     "DcuRegion": "east"
@@ -786,7 +786,7 @@ export default [
   {
     "EventId": 10102,
     "Name": "GP Himmerland Rundt 2022 UCI ME 1.2",
-    "Date": "2022-08-27",
+    "date": 1661558400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Vesthimmerlands Cykle Klub",
     "DcuRegion": "west"
@@ -794,7 +794,7 @@ export default [
   {
     "EventId": 10103,
     "Name": "RENT LIV Løbet Skive 2022 UCI ME 1.2",
-    "Date": "2022-08-28",
+    "date": 1661644800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Vesthimmerlands Cykle Klub",
     "DcuRegion": "west"
@@ -802,7 +802,7 @@ export default [
   {
     "EventId": 10047,
     "Name": "Aarhus MTB - DCU XCO løb",
-    "Date": "2022-08-28",
+    "date": 1661644800000,
     "EventTypeName": "MTB",
     "Location": "Aarhus C",
     "DcuRegion": "west"
@@ -810,7 +810,7 @@ export default [
   {
     "EventId": 10104,
     "Name": "Jørgen Leths Æresløb - Aarhus Cyklebane 2022",
-    "Date": "2022-09-02",
+    "date": 1662076800000,
     "EventTypeName": "Banecykling",
     "Location": "Aarhus Cyklebane",
     "DcuRegion": "west"
@@ -818,7 +818,7 @@ export default [
   {
     "EventId": 10105,
     "Name": "BCC TT",
-    "Date": "2022-09-03",
+    "date": 1662163200000,
     "EventTypeName": "Landevejscykling",
     "Location": "BCC",
     "DcuRegion": "west"
@@ -826,7 +826,7 @@ export default [
   {
     "EventId": 10085,
     "Name": "CK FIX Linjeløb  2022",
-    "Date": "2022-09-03",
+    "date": 1662163200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Ågerup, Sjælland",
     "DcuRegion": "east"
@@ -834,7 +834,7 @@ export default [
   {
     "EventId": 10106,
     "Name": "BCC",
-    "Date": "2022-09-04",
+    "date": 1662249600000,
     "EventTypeName": "Landevejscykling",
     "Location": "BCC",
     "DcuRegion": "west"
@@ -842,7 +842,7 @@ export default [
   {
     "EventId": 10110,
     "Name": "Nyborg 2022 - DEMIN CUP - UnoX Cup - Dame Cup",
-    "Date": "2022-09-11",
+    "date": 1662854400000,
     "EventTypeName": "Landevejscykling",
     "Location": "Nyborg Cykle Klub",
     "DcuRegion": "west"
@@ -850,7 +850,7 @@ export default [
   {
     "EventId": 10014,
     "Name": "Haderslev MTB Challenge XCM ",
-    "Date": "2022-09-17",
+    "date": 1663372800000,
     "EventTypeName": "MTB",
     "Location": "Haderslev",
     "DcuRegion": "west"
@@ -858,7 +858,7 @@ export default [
   {
     "EventId": 10107,
     "Name": "Odder CK",
-    "Date": "2022-09-18",
+    "date": 1663459200000,
     "EventTypeName": "Landevejscykling",
     "Location": "Odder CK",
     "DcuRegion": "west"
@@ -866,7 +866,7 @@ export default [
   {
     "EventId": 10108,
     "Name": "Tønder ACR løbet 2022",
-    "Date": "2022-09-24",
+    "date": 1663977600000,
     "EventTypeName": "Landevejscykling",
     "Location": "Tønder ACR, Tønder",
     "DcuRegion": "west"
@@ -874,7 +874,7 @@ export default [
   {
     "EventId": 10109,
     "Name": "Fri Bike Shop -  Sønderborg",
-    "Date": "2022-09-25",
+    "date": 1664064000000,
     "EventTypeName": "Landevejscykling",
     "Location": "Sønderborg Cykle Klub, Sønderborg",
     "DcuRegion": "west"
@@ -882,7 +882,7 @@ export default [
   {
     "EventId": 10098,
     "Name": "Holbæk CS Demin Cup //Ladies Cup // Uno-X Cup",
-    "Date": "2022-10-02",
+    "date": 1664668800000,
     "EventTypeName": "Landevejscykling",
     "Location": "Holbæk ",
     "DcuRegion": "east"

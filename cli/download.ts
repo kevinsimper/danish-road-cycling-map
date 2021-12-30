@@ -42,16 +42,14 @@ async function main() {
     "../data/raw.js",
     "export default " +
       JSON.stringify(
-        json.Events.map(
-          ({ EventId, Name, Date, EventTypeName, Location, DcuRegion }) => ({
-            EventId,
-            Name,
-            Date,
-            EventTypeName,
-            Location,
-            DcuRegion,
-          })
-        ),
+        json.Events.map((event) => ({
+          EventId: event.EventId,
+          Name: event.Name,
+          date: new Date(event.Date).getTime(),
+          EventTypeName: event.EventTypeName,
+          Location: event.Location,
+          DcuRegion: event.DcuRegion,
+        })),
         null,
         2
       )
