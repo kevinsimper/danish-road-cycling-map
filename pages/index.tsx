@@ -40,7 +40,11 @@ export default function Home() {
       },
       Cell: ({ value }) => {
         if (typeof value !== "number") return "";
-        return new Date(value).toISOString().split("T")[0];
+        return (
+          <div className="whitespace-nowrap">
+            {new Date(value).toISOString().split("T")[0]}
+          </div>
+        );
       },
     },
     col("Type", "EventTypeName"),
@@ -78,7 +82,7 @@ export default function Home() {
 
   return (
     <div>
-      <div className="container mx-auto py-12 flex flex-col lg:flex-row justify-between">
+      <div className="container mx-auto p-4 lg:py-12 flex flex-col lg:flex-row justify-between">
         <div>
           <h1 className="text-3xl mb-4">Danske License Cykelløb</h1>
         </div>
@@ -93,7 +97,38 @@ export default function Home() {
           />
         </div>
       </div>
-      <NewTable columns={columnsUsers} data={sorted} />
+      <div className="hidden lg:block">
+        <NewTable columns={columnsUsers} data={sorted} />
+      </div>
+      <div className="block lg:hidden">
+        {sorted.map((event) => {
+          return (
+            <div className="p-2 flex space-x-4 justify-between content-center shadow">
+              <div>
+                <div>
+                  {typeof event.date !== "number"
+                    ? ""
+                    : new Date(event.date).toISOString().split("T")[0]}
+                </div>
+                <h3 className="text-lg">{event.Name}</h3>
+                <div>
+                  {event.DcuRegion} - {event.EventTypeName}
+                </div>
+                <div>{event.Location}</div>
+              </div>
+              <div className="flex flex-col justify-center">
+                <a
+                  target="_blank"
+                  className="block bg-blue-500 hover:bg-blue-700 border-blue-700 text-white py-2 px-4 border rounded"
+                  href={`https://www.sportstiming.dk/event/${event.EventId}`}
+                >
+                  Vis
+                </a>
+              </div>
+            </div>
+          );
+        })}
+      </div>
     </div>
   );
 }
