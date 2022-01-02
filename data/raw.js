@@ -580,7 +580,7 @@ export default [
     "Name": "Randers 2022 / 3. afd.  CAMPIONE PINSE CUP",
     "date": 1654473600000,
     "EventTypeName": "Landevejscykling",
-    "Location": "Randers ck",
+    "Location": "Randers",
     "DcuRegion": "west"
   },
   {
@@ -620,7 +620,7 @@ export default [
     "Name": "Holstebro CC - U23 - Master DM   - TT",
     "date": 1655510400000,
     "EventTypeName": "Landevejscykling",
-    "Location": "Esbjerg",
+    "Location": "Holstebro",
     "DcuRegion": "west"
   },
   {
@@ -636,7 +636,7 @@ export default [
     "Name": "Holstebro CC - U23 - Master DM linieløb",
     "date": 1655596800000,
     "EventTypeName": "Landevejscykling",
-    "Location": "Esbjerg",
+    "Location": "Holstebro",
     "DcuRegion": "west"
   },
   {
@@ -660,7 +660,7 @@ export default [
     "Name": "DM i enkeltstart (TT) 2022 - Aalborg CR",
     "date": 1655942400000,
     "EventTypeName": "Landevejscykling",
-    "Location": "GIVE CK",
+    "Location": "Aalborg",
     "DcuRegion": "west"
   },
   {
@@ -668,7 +668,7 @@ export default [
     "Name": "DM i linjeløb U19-herrer 2022 - Aalborg CR",
     "date": 1656115200000,
     "EventTypeName": "Landevejscykling",
-    "Location": "GIVE CK",
+    "Location": "Aalborg",
     "DcuRegion": "west"
   },
   {
@@ -684,7 +684,7 @@ export default [
     "Name": "DM i linjeløb 2022, eliteherrer & elitekvinder + U19-kvinder - Aalborg CR",
     "date": 1656201600000,
     "EventTypeName": "Landevejscykling",
-    "Location": "GIVE CK",
+    "Location": "Aalborg",
     "DcuRegion": "west"
   },
   {
